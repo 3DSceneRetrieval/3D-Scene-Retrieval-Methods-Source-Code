@@ -1,6 +1,7 @@
 # Code
-This is the source code repository for the methods evaluated in the paper "A comparison of methods for 3D scene shape retrieval".
+This is the source code repository for the methods evaluated in the following manuscript: 
 
+"A comparison of methods for 3D scene shape retrieval".
 
 TCL: https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch
 
