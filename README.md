@@ -1,4 +1,4 @@
-# '3D Scene Retrieval Methods' Source Code
+# 3D Scene Retrieval Methods Source Code
 This is the source code repository for the methods evaluated in the following manuscript: 
 
 "**A comparison of methods for 3D scene shape retrieval**".
@@ -18,6 +18,6 @@ You can obtain the code by directly downloading via this respository or by acces
 
 [6] **VGG, MMD-VGG**: TBA
 
-###### **References**
+### **References**
 
 [1] V. Nguyen, T. D. Ngo, M. Tran, D. Le, D. A. Duong, A combination of spatial pyramid and inverted index for large-scale image retrieval, International Journal of Multimedia Data Engineering and Management (IJMDEM), 6: 37–51, 2015.
