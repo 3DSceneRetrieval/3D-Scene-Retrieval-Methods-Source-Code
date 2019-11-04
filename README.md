@@ -11,7 +11,7 @@ CVAE: https://github.com/luis-armando-perez-rey/shrec_competition
 
 VMV-VGG, VMV-AlexNet: http://orca.st.usm.edu/~bli/Scene_SBR_IBR/index.html
 
-RNSRAP, RNIRAP: see above RNSRAP_RNIRAP.zip file 
+RNSRAP, RNIRAP: see the above "RNSRAP_RNIRAP.zip" file 
 
 BoW: TBA
 
