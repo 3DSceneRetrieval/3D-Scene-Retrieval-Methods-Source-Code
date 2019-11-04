@@ -11,7 +11,7 @@ CVAE: https://github.com/luis-armando-perez-rey/shrec_competition
 
 VMV-VGG, VMV-AlexNet: http://orca.st.usm.edu/~bli/Scene_SBR_IBR/index.html
 
-RNSRAP, RNIRAP: TBA
+RNSRAP, RNIRAP: https://github.com/3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code/RNSRAP_RNIRAP.zip
 
 BoW: TBA
 
