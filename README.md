@@ -1,7 +1,7 @@
 #3D Scene Retrieval Methods' Source Code
 This is the source code repository for the methods evaluated in the following manuscript: 
 
-"A comparison of methods for 3D scene shape retrieval".
+"**A comparison of methods for 3D scene shape retrieval**".
 
 You can obtain the code by directly downloading via this respository or by accessing their following source code webpages.  
 
